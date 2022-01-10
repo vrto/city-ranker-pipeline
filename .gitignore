@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.idea
+*.iml
+
+# output files created by the pipeline
+outputBig.txt
+outputMedium.txt
+outputSmall.txt
